@@ -243,7 +243,6 @@ int main()
 	vector<int> vTestCase = { 42,23,74,65,58,94,36,99,87 };
 	CSort cSortAlg;
 	cSortAlg.Test(vTestCase);
-
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
